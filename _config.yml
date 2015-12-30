@@ -9,5 +9,7 @@ url: "http://opsmason.com" # the base hostname & protocol for your site
 twitter_username: opsmason
 github_username:  opsmason
 
+timezone: America/New_York
+
 # Build settings
 markdown: kramdown

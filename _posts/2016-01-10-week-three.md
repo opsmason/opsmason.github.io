@@ -23,7 +23,7 @@ One of the first exercises in the Spark Notebook is to decide on a "theme for yo
 For me, Intentional will mean making a plan of when I'll tackle certain tasks, when I will spend time with people, when I spend time researching, and when I will in fact sit down and play Lego Dimensions.
 
 ## Technical Notes
-I'm still poking around with [Jekyll][jrb] to get this blog doing what I want it to. (I have yet to be intentional in this ... a project for a later date.) In the mean time, it will look a little rough.
+I'm still poking around with [Jekyll][jrb] to get this blog doing what I want it to. (I have yet to be intentional in this … a project for a later date.) In the mean time, it will look a little rough.
 
 I also plan to blog at least once a week: Sunday evenings after my personal weekly review. I'd _like_ to write more, but I also don't want this blog to be a distraction from what I am actually trying to accomplish this year.
 

@@ -1,6 +1,7 @@
 ---
 title: on feedback
 tags: work
+layout: post
 ---
 
 My office — like most, I presume — incorporates peer reviews into the annual review process. I'm not going to debate if this is good or bad, although I wonder if semi-annual reviews and raises wouldn't be more beneficial … but I'm not in a position to influence that. But oh, how I loath trying to remember 12 months worth of interactions, and try to provide helpful feedback.

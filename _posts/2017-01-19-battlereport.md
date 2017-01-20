@@ -7,16 +7,16 @@ tags: x-wing
 Last night, took a new squad down to Huzzah for the monthly tournament:
 
 * TIE/Interceptor: Soonter Fel
-** Royal Guard Title
-** Autothrusters
-** Stealth Device
-** Push the Limit
+  * Royal Guard Title
+  * Autothrusters
+  * Stealth Device
+  * Push the Limit
 * TIE/Interceptor: Saber Squadron Pilot
-** Stealth Device
+  * Stealth Device
 * TIE/FO: Omega Squadron Pilot
-** Outmaneuver
+  * Outmaneuver
 * TIE/FO: Omega Squadron Pilot
-** Predator?
+  * Predator?
 
 My goal was to keep everyone in formation, head for the stronest opponent, get behind them and pick them off en masse.
 
@@ -26,7 +26,7 @@ I got the by. That's what happens when you leave the house late! But, I took som
 ## Round Two: Double TIEd
 Played Matt, who had something like:
 * TIE Advanced: Darth Vader
-** Proton Rockets?
+  * Proton Rockets?
 * TIE: Howl Runner
 * TIE: Black Squadron Pilot
 * TIE: Black Squadron Pilot
@@ -50,18 +50,18 @@ Final score: 100 - 0. Matt was really nice, and showed me an alternative formati
 Scott is really nice. I met him at the store-tournament in December, and he remebered me and my son. This time he was fielding:
 
 * An Arc 170 (man, is that a beautiful model)
-** tail gunner
-** some rocket or torpedo or soemthing
-** R2-D2 (shield regen mennace!)
+  * tail gunner
+  * some rocket or torpedo or soemthing
+  * R2-D2 (shield regen mennace!)
 * Z-95 Lieutenant Blount
-** Tracers!
-** Crack Shot?
+  * Tracers!
+  * Crack Shot?
 * Some Z-95
-** Crack Shot
-** Some ordenance
+  * Crack Shot
+  * Some ordenance
 * Some Z-95
-** Crack Shot
-** Some ordenance
+  * Crack Shot
+  * Some ordenance
 
 Setup went kina bad. I was so focused on Matt's tip on asteroid-placement-to-help-with-K-turns, that Scott boxed me in with all of *his* asteroids. But I made the best of it: I setup as close to the left edge as I could, and intentionally set one of my FOs to go through the closest rock. I knew a five-forward would set me on the other side, unobstructed. Scott had his Z's in a tight formation coming from the center, and the ARC coming in from the far-left.
 

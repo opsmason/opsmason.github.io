@@ -4,6 +4,8 @@ Tags: [Self, Tech]
 Title: Hello, iPad
 ---
 
+[Hello!](https://s3.amazonaws.com/static.opsmason.com/blog/IMG_0555.JPG)
+
 I picked up a 10.5" iPad Pro a few weeks ago, and am getting it worked into my personal productivity flow. That is, I am trying to create a personal productivity flow.
 
 I wear a lot of hats, that each have their own, unique needs: husband, father, son, brother, employee, Scouter, home owner. I also want to ensure I'm making time to take care of myself. And, at some point in the week, I'd like to have some fun.

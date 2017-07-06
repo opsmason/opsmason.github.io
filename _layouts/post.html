@@ -12,15 +12,4 @@ layout: default
     {{ content }}
   </article>
 
-
-<div id="post-nav" class="clearfix">
-  {% if page.previous.url %} 
-    <span class="post-meta">{{ page.previous.date | date: "%b %-d, %Y" }}</span> <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-    <hr>
-  {% endif %} 
-  {% if page.next.url %} 
-    <span class="post-meta">{{ page.next.date | date: "%b %-d, %Y" }}</span> <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a> 
-  {% endif %} 
-</div>
-
 </div>

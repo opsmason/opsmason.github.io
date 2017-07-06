@@ -4,7 +4,7 @@ Tags: [Self, Tech]
 Title: Hello, iPad
 ---
 
-[Hello!](https://s3.amazonaws.com/static.opsmason.com/blog/IMG_0555.JPG)
+![Hello!](https://s3.amazonaws.com/static.opsmason.com/blog/IMG_0555.JPG)
 
 I picked up a 10.5" iPad Pro a few weeks ago, and am getting it worked into my personal productivity flow. That is, I am trying to create a personal productivity flow.
 

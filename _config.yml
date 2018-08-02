@@ -11,6 +11,9 @@ github_username:  opsmason
 timezone: America/New_York
 paginate: 1
 
+plugins:
+  - jekyll-feed
+  
 # Build settings
 markdown: kramdown
 

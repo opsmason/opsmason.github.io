@@ -25,5 +25,5 @@ defaults:
     values:
       layout: "post"
 minima:
-  date_format: "%Y-%M-%d"
+  date_format: "%Y-%m-%d"
 show_excerpts: true

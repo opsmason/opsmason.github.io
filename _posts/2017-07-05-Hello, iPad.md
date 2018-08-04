@@ -1,6 +1,6 @@
 ---
 Layout: Post
-Tags: [Self, Tech]
+Tags: [self, tech]
 Title: Hello, iPad
 ---
 

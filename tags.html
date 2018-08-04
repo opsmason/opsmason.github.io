@@ -7,7 +7,7 @@ permalink: /tags/
     {% for tag in site.tags %}
     <li>
         <a href="{{baseurl}}/tags/{{ tag[0] }}/">
-      {{ tag | capitalize}}
+      {{ tag[0] | capitalize}}
     </a>
     </li>
 {% endfor %}

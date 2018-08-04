@@ -3,7 +3,7 @@ layout: page
 ---
 
 <ul>
-    {% for tag in site.tags.keys %}
+    {% for tag in site.tags | tag_list %}
     <li>
         <a href="{{baseurl}}/tags/{{ tag }}.html">
       {{ tag }}

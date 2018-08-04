@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Battle Report 2017-01-18
 tags: x-wing
 ---

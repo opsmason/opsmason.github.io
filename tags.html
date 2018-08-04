@@ -1,12 +1,13 @@
 ---
 layout: page
+permalink: /tags/
 ---
 
 <ul>
-    {% for tag in site.tags | tag_list %}
+    {% for tag in site.tags %}
     <li>
-        <a href="{{baseurl}}/tags/{{ tag }}.html">
-      {{ tag }}
+        <a href="{{baseurl}}/tags/{{ tag[0] }}/">
+      {{ tag | capitalize}}
     </a>
     </li>
 {% endfor %}

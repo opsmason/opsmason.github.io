@@ -1,7 +1,6 @@
 ---
-Layout: Post
-Tags: [self, tech]
-Title: Hello, iPad
+tags: [self, tech]
+title: Hello, iPad
 ---
 
 ![Hello!](https://s3.amazonaws.com/static.opsmason.com/blog/IMG_0555.JPG)

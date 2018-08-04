@@ -2,8 +2,12 @@
 layout: page
 ---
 
+<ul>
 {% for tag in site.tags %}
-    <a href="{{baseurl}}/tags/{{ tag }}.html">
+    <li>
+        <a href="{{baseurl}}/tags/{{ tag }}.html">
       {{ tag }}
     </a>
+    </li>
 {% endfor %}
+</ul>

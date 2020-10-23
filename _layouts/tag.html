@@ -6,6 +6,6 @@ layout: page
     {% for post in site.tags[page.tag] %}
     <li>{{ post.date}}: <a href="{{ post.url }}">
       {{ post.title }}
-        </a></li>
+        </a><br>{{ post.description }}</li>
 {% endfor %}
 </ul>

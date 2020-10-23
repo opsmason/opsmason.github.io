@@ -4,7 +4,7 @@ title: opsMason
 description: > # this means to ignore newlines until "baseurl:"
   It's just me, at a keyboard. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://opsmason.com" # the base hostname & protocol for your site
+url: "https://opsmason.com" # the base hostname & protocol for your site
 twitter_username: opsmason
 github_username:  opsmason
 

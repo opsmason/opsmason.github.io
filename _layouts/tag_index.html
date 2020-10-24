@@ -2,6 +2,10 @@
 layout: page
 ---
 
+{% if site.tag_desc[page.tag] %}
+<p>{{ site.tag_desc[page.tag] }}</p>
+{% endif %}
+
 <ul>
     {% for post in site.tags[page.tag] %}
     <li>{{ post.date}}: <a href="{{ post.url }}">

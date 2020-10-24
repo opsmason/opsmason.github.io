@@ -1,15 +1,13 @@
 # Site settings
+google_analytics: G-YREENXZ34R
 theme: minima
 title: opsMason
-description: > # this means to ignore newlines until "baseurl:"
-  It's just me, at a keyboard. 
-baseurl: "" # the subpath of your site, e.g. /blog/
+description: It's just me, at a keyboard.
+baseurl: ""
 url: "https://opsmason.com" # the base hostname & protocol for your site
-twitter_username: opsmason
 github_username:  opsmason
-
+show_excerpts: true
 timezone: America/New_York
-paginate: 1
 
 plugins:
   - jekyll-feed
@@ -26,4 +24,10 @@ defaults:
       layout: "post"
 minima:
   date_format: "%Y-%m-%d"
-show_excerpts: true
+  skin: "solarized"
+
+tag_desc:
+  podcasts: Why do I keep typing 'podcats'?
+  self: Navel Gazing
+  tech: beep boop
+  x-wing: Pew Pew!

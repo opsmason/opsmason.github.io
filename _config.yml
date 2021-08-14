@@ -1,6 +1,6 @@
 # Site settings
 google_analytics: G-YREENXZ34R
-theme: minima
+theme: jekyll-theme-tactile
 title: opsMason
 description: It's just me, at a keyboard.
 baseurl: ""

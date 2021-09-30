@@ -1,7 +1,7 @@
---
+---
 title: Shortcuts and Roadblocks
 tag: colophon
---
+---
 
 One thing I want to do with the workflow on this blog is the ability to upload posts and images to the Inbound Bucket from an iPad or iPhone. I poked around the App Stoe for S3 clients, but nothing jumped out. So, I thought I'd try to make my own with Shortcuts!
 

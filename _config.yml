@@ -31,3 +31,12 @@ tag_desc:
   self: Navel Gazing
   tech: beep boop
   x-wing: Pew Pew!
+
+exclude:
+- .ruby-gemset
+- .ruby-version
+- Gemfile
+- Gemfile.lock
+- Makefile
+- README.md
+- vendor/
